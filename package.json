@@ -1,7 +1,7 @@
 {
   "name": "we-gulp-tasks-default",
   "description": "We.js default gulp tasks",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
