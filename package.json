@@ -5,6 +5,7 @@
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
+    "apidoc": "^0.16.1",
     "gulp-concat": "^2.6.0",
     "gulp-minify-css": "^1.2.1",
     "gulp-rename": "^1.2.2",
@@ -23,5 +24,8 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:wejs/we-gulp-tasks-default.git"
+  },
+  "devDependencies": {
+    "gulp-apidoc": "^0.2.3"
   }
 }
